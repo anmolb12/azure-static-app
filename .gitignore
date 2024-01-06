@@ -11,7 +11,7 @@ azure-app/node_modules
 /coverage
 
 # production
-/build
+azure-app/build
 
 # misc
 .DS_Store
